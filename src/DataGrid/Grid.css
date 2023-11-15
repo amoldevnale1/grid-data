@@ -1,0 +1,10 @@
+.grid-section {
+  margin-top: 5%;
+}
+
+.long-header {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 150px;
+}

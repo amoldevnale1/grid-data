@@ -1,0 +1,8 @@
+.search-panel {
+  margin-top: 5%;
+}
+
+.button-grp {
+  display: flex;
+  justify-content: end;
+}
